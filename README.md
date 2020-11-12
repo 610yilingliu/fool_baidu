@@ -12,7 +12,7 @@ Python 3.7.6
 
 ## Extra Requirements
 
-[mp3_tagger] (https://github.com/artcom-net/mp3-tagger)
+[mp3_tagger](https://github.com/artcom-net/mp3-tagger)
 
 
 ## Usage
